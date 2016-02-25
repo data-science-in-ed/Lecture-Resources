@@ -5,5 +5,9 @@
 
 [Class 2] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class%202%20Systems-Data%20Formats-Git.pdf)
 
+[Class 3] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class.3.Self.directed.learning-basic.viz-tidy.data.pdf)
+
+[Class 4] (
+
 ## Other
 [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/)
