@@ -11,5 +11,7 @@
 
 [Class 5] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class%205.Open%20Data.Kmeans.pdf)
 
+[Class 6] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class%206.Privacy.Social%20Network%20Analysis.pdf)
+
 ## Other
 [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/)
