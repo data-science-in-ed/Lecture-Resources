@@ -15,7 +15,11 @@
 
 [Class 7] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class%207.Social%20Network%20Analysis.pdf)
 
-[Class 8] (Lecture-Resources/Class.8.Inference-Cross Validation-Decision Trees.pdf)
+[Class 8] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class.8.Inference-Cross%20Validation-Decision%20Trees.pdf)
+
+[Class 9] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class.9.Intelligent%20Tutoring-BKT-Random%20Forest.pdf)
+
+[Class 10] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class.10.Natural%20Language%20Processing.pdf)
 
 ## Other
 [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/)
