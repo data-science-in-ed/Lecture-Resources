@@ -13,5 +13,7 @@
 
 [Class 6] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class%206.Privacy.Social%20Network%20Analysis.pdf)
 
+[Class 7] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class%207.Social%20Network%20Analysis.pdf)
+
 ## Other
 [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/)
