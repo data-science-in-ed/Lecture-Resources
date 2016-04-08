@@ -15,5 +15,7 @@
 
 [Class 7] (https://github.com/data-science-in-ed/Lecture-Resources/blob/master/Class%207.Social%20Network%20Analysis.pdf)
 
+[Class 8] (Lecture-Resources/Class.8.Inference-Cross Validation-Decision Trees.pdf)
+
 ## Other
 [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/)
